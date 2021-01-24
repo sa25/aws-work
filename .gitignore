@@ -2,4 +2,22 @@
 
 # dependencies
 /cognito-amplify-demo/react-amplified/node_modules/
+/cognito-amplify-demo/react-amplified/.pnp
+/cognito-amplify-demo/react-amplified/pnp.js
 
+# testing
+/cognito-amplify-demo/react-amplified/coverage/
+
+# production
+/cognito-amplify-demo/react-amplified/build/
+
+# misc
+/cognito-amplify-demo/react-amplified/.DS_Store
+/cognito-amplify-demo/react-amplified/.env.local
+/cognito-amplify-demo/react-amplified/.env.development.local
+/cognito-amplify-demo/react-amplified/.env.test.local
+/cognito-amplify-demo/react-amplified/.env.production.local
+
+/cognito-amplify-demo/react-amplified/npm-debug.log*
+/cognito-amplify-demo/react-amplified/yarn-debug.log*
+/cognito-amplify-demo/react-amplified/yarn-error.log*
